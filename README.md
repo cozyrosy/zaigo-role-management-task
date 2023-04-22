@@ -21,5 +21,5 @@ The API allows creating, retrieving, updating, and deleting roles, as well as as
 5. Create a superuser: python manage.py createsuperuser <br>
 6. Run the development server: python manage.py runserver <br>
 ### API Documentation :
-https://docs.google.com/document/d/1eixo5beI3nuqinHC6SoPl5L8BHWHJJks/edit?usp=share_link&ouid=114033247930435116993&rtpof=true&sd=true
+https://docs.google.com/document/d/1LWZy3owvKoa7uPDOzEFqtB7Ys8xGnW05/edit?usp=share_link&ouid=114033247930435116993&rtpof=true&sd=true
        
